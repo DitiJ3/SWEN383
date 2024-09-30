@@ -10,8 +10,8 @@ Do not push code into this repo I will also add rules to this so if anyone knows
 2. git add .
 3. git commit -m "initialising repo"
 4. git remote add origin https://github.com/DitiJ3/SWEN383.git
-5. git checkout -b <branch-name>
-6. git push -u origin <branch-name>
+5. git checkout -b branch-name
+6. git push -u origin branch-name
 
 This creates a repo locally then connects it to the origin on github while checking out a unique branch for the project.
 After this step:
